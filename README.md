@@ -4,5 +4,3 @@ Hello I'm Folk.
 
 ## Engineering Education
 ### Computer Technology
-
-sawat
